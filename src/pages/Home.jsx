@@ -3,7 +3,7 @@ import {FaDribbble,  FaInstagram,  FaBehance,  FaGoogle,  FaFileAlt,} from "reac
 import Chart from "react-apexcharts";
 import { BarChart, LineChart, Line, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, ReferenceDot, ReferenceLine } from "recharts";
 import { FaBars, FaChevronDown } from "react-icons/fa";
-import User from "../components/ui/user";
+import User from "../components/ui/User";
 import DeshbordHeader2 from "../components/ui/DeshbordHeader2";
 import DeshbordHeader3 from "../components/ui/DeshbordHeader3";
 import DeshbordHeader4 from "../components/ui/DeshbordHeader4";
